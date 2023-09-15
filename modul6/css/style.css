@@ -6,6 +6,10 @@ html {
     box-sizing: inherit;
 }
 
-body {
-    font-family: 'Montserrat', 'sans-serif';
+.body {
+    display: grid;
+    justify-content: center;
+    background-color: #ededed;
+    font-family: Lato, sans-serif;
+    word-break: break-word;
 }

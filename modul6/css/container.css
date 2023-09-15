@@ -1,0 +1,11 @@
+.container {
+    display: grid;
+    grid-template-columns: minmax(300px, 750px);
+    grid-gap: 10px;
+}
+
+@media (max-width: 720px) {
+    .container {
+        margin: 10px;
+    }
+}
