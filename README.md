@@ -7,9 +7,9 @@
 I am presenting another project made for educational purposes.
 This time it is a task list in which you can mark completed tasks and delete entries.
 
-Presentation:
+Presentation :
 
-![presntaion](img/modul6present.PNG)
+![presentation](img/modul6present.png)
 
 
 Used technologies:
