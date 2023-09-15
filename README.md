@@ -1,19 +1,16 @@
-# Grzegorz Prabucki - Przelicznik Walut
+# Grzegorz Prabucki - Lista zadań
 ## ^_^
 
-[demo](https://grzegorztestowy.github.io/mod4KANTOR/)
+[demo](https://grzegorztestowy.github.io/modul6/)
 
 ## Welcome to the Readme :-)
-On this page, it presents a currency converter. You can check how much foreign currency you can buy for the selected amount of PLN. 
+I am presenting another project made for educational purposes.
+This time it is a task list in which you can mark completed tasks and delete entries.
 
+Presentation:
 
-Supported currencies:
-- Euro
-- US Dollar
-- British Pound
-- Swiss Franc
+![presntaion](img/modul6present.PNG)
 
-![mujryj](img/fota2.jpg)
 
 Used technologies:
 - HTML
