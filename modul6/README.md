@@ -1,7 +1,7 @@
 # Grzegorz Prabucki - Lista zadań
 ## ^_^
 
-[demo](https://grzegorztestowy.github.io/modul6/)
+[demo](https://grzegorztestowy.github.io/dev/modul6)
 
 ## Welcome to the Readme :-)
 I am presenting another project made for educational purposes.
