@@ -25,11 +25,12 @@
 }
 
 .tasks__buttons:hover {
-    background-color:  #386154;
+    background-color:  #4cc798;
 }
 
 .tasks__buttons:active {
-    background-color:  #354646;
+    background-color:  #245542;
+    ;
 }
 
 .tasks__buttons--done {
